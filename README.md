@@ -22,4 +22,7 @@ Step 2 :-> Download the running files from Below link
            "yikes cnc machine is running and kicking"  
            then press g and select g code from the folder open test gcode and open nktronics.gcode  
            and your machine will start running  
-           
+step 3 :-> install inkspace from the downloaded file
+           after that unzip inkscape-unicorn-master for mini cnc
+           and then copy the file according to the readme file inside the zip file
+           opne inkspace and then 
